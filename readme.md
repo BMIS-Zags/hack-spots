@@ -1,4 +1,4 @@
-# Hi!
+# Hi! ok
 
 ![screenshot](https://raw.github.com/jlord/hack-spots/gh-pages/img/hackspotsss.png)
 
